@@ -1,4 +1,4 @@
-# ProgressBar With Angular
+# ProgressBar In Angular
 
 ## Development server
 
